@@ -1,4 +1,4 @@
 require('base')
+require('lsp')
+require('core')
 require('shortcut')
-require('lsp/lua')
-require('lsp/keymap')
